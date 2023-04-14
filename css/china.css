@@ -3,7 +3,7 @@
 h1 {
   color: rgb(230,0,0);
   font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
-  font-size: 88px;
+  font-size: 66px;
   font-weight: 400
 }
 
@@ -30,9 +30,12 @@ a:link {
   color: rgb(26,104,64); /* heyelv */
 }
 
-a:visted {
+a:hover {
+  background-color: rgb(26,104,64); /* heyelv */
   color: rgb(228,223,215); /* zhenzhu grey */
 }
+
+
 
 
 
