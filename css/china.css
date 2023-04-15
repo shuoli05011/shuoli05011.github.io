@@ -16,10 +16,7 @@ body {
 }
 
 nav {
-  background-color: rgb(228,223,215); /* zhenzhu grey */
-  position: sticky;
-  top: 0;
-  border: 10px solid #fff; 
+  background-color: rgb(228,223,215); opacity: .5; /* zhenzhu grey */
 }
 
 p {
@@ -38,10 +35,15 @@ a:link {
   color: rgb(26,104,64); /* heyelv */
 }
 
+a:visited {
+  color: rgb(32,127,76); /* mint */
+}
+
 a:hover {
   background-color: rgb(26,104,64); /* heyelv */
   color: rgb(228,223,215); /* zhenzhu grey */
 }
+
 
 
 
