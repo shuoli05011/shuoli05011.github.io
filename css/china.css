@@ -17,8 +17,8 @@ body {
 nav {
   background-color: rgb(228,223,215); /* zhenzhu grey */
   position: sticky;
-  top: 10px;
-  border-top: 10px solid #fff; 
+  top: 0;
+  border: 1px solid #fff; 
 }
 
 p {
