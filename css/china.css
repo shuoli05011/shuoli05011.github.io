@@ -75,7 +75,7 @@ figcaption {
   font-size: 14px;
   font-weight: 400;
   font-style: italic;
-  float: right;
+  clear: right;
 
 }
 
