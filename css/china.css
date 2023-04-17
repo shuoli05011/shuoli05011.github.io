@@ -13,6 +13,10 @@ h1 {
   font-weight: 400
 }
 
+h3 {
+  color: rgb(26,104,64); /* heyelv */  
+}
+
 body {
   color:black;
   font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
@@ -75,8 +79,6 @@ figcaption {
   font-size: 14px;
   font-weight: 400;
   font-style: italic;
-  clear: right;
-
 }
 
 a,
@@ -91,6 +93,10 @@ a:visited {
 a:hover {
   background-color: rgb(26,104,64); /* heyelv */
   color: rgb(228,223,215); /* zhenzhu grey */
+}
+
+footer {
+   float: right; 
 }
 
 
