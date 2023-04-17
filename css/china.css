@@ -51,6 +51,14 @@ p {
   grid-column: 3 / 4;
 }
 
+#table {
+  display: flex;
+}
+#t {
+  background-color: rgb(26,104,64); opacity: .25; 
+}
+
+
 
 figcaption {
   font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
