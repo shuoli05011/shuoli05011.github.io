@@ -51,13 +51,6 @@ p {
   grid-column: 3 / 4;
 }
 
-#table {
-  display: flex;
-}
-#t {
-  background-color: rgb(26,104,64); opacity: .85; 
-  color: black;
-}
 
 
 
@@ -217,5 +210,16 @@ nav {
 #layout {
   display: grid;
   grid-template-rows: 3em 20px [main-start] 150px auto
+}
+*/
+
+
+/*
+#table {
+  display: flex;
+}
+#t {
+  background-color: rgb(26,104,64); opacity: .85; 
+  color: black;
 }
 */
