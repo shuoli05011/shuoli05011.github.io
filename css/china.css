@@ -55,7 +55,7 @@ p {
   display: flex;
 }
 #t {
-  background-color: rgb(26,104,64); opacity: .25; 
+  background-color: rgb(26,104,64); opacity: .05; 
   color: black;
 }
 
