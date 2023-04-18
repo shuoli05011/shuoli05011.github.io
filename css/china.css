@@ -96,7 +96,11 @@ a:hover {
 }
 
 footer {
-   float: right; 
+  background-color: rgb(228,223,215);
+  color: rgb(26,104,64); /* heyelv */
+  font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 400;
+  float: center; 
 }
 
 
