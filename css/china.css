@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,800;1,400&family=Rock+Salt&display=swap');
 
+/*
 #container {
 display: grid; 
 grid-template-rows: auto auto 5em;
 grid-template-columns: minmax(25em, 1fr) 16em;
 }
+*/
 
 h1 {
   color: rgb(230,0,0);
