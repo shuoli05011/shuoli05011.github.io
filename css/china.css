@@ -77,8 +77,8 @@ p {
 #picture {
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
-  background-color: rgb(26,104,64); opacity: .25;/* heyelv */ 
-  width: 500px;
+  background-color: rgb(26,104,64); /* heyelv */ 
+  width: 600px;
   height: 320px;
 }
 
