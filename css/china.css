@@ -73,7 +73,7 @@ p {
 #list {
   grid-row: 2 / 3;
   grid-column: 1 / 2; 
-  background-color: rgb(164, 172, 167);
+  background-color: rgb(202,211,195);
   width: 280px;
   height: 330px;
 }
