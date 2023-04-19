@@ -7,6 +7,9 @@ h1 {
   font-weight: 400
 }
 
+h2 {
+  font-family: "Rocl salt", "Helvetica Neue", "Arial", sans-serif;
+}
 h3 {
   color: rgb(26,104,64); /* heyelv */ 
   font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
