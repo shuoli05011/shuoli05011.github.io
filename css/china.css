@@ -22,6 +22,12 @@ body {
 
 nav {
   background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
+}
+
+#back {
+  background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
 }
 
 p {
