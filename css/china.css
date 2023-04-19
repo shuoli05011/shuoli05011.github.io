@@ -75,7 +75,7 @@ p {
   grid-column: 1 / 2; 
   background-color: rgb(202, 211, 195);
   width: 280px;
-  height: 340px;
+  height: 330px;
 }
 #picture {
   grid-row: 2 / 3; 
