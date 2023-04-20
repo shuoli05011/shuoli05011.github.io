@@ -41,9 +41,9 @@ p {
 
 table {
   box-sizing: border-box;
-  width: 2500px;
+  width: 250px;
   height: 100px;
-  background-color: rgb(183,174,143);
+  background-color: rgb(251,242,227);
   border-color: rgb(26,104,64);
   border-style: dashed;
 }
