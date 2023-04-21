@@ -115,7 +115,35 @@ footer {
   text-align: center; 
 }
 
-#back {
+#b1 {
+  background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+#b2 {
+  background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+#b3 {
+  background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+#b4 {
+  background-color: rgb(228,223,215); /* zhenzhu grey */
+  font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+#b5 {
   background-color: rgb(228,223,215); /* zhenzhu grey */
   font-family: "Rock Salt", "Helvetica Neue", "Arial", sans-serif;
   text-align: center;
