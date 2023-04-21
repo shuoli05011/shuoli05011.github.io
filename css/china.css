@@ -31,8 +31,10 @@ table {
 
 #geo {
   display: grid;
-  grid-template-columns: 500px 250px 250px min-content;
+  grid-template-columns: 500px 250px 250px auto;
   grid-template-rows: 60px 1fr auto;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-auto-rows: 200px;
 }
 #Geography {
  grid-row: 1 / 2;
