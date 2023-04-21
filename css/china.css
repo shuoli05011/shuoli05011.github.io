@@ -35,8 +35,10 @@ table {
   grid-template-rows: 60px 1fr auto;
 }
 #Geography {
- grid-row: 1 / 2;
- grid-column: 1 / 2 / 3/ 4;
+ grid-column-start: 1;
+ grid-column-end: 4;
+ grid-row-start: 1;
+ grid-row-end: 2;
 }
 #Location {
   grid-row: 2 / 3;
