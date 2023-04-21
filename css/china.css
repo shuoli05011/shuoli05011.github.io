@@ -28,6 +28,9 @@ table {
   border-color: rgb(26,104,64);
   border-style: dashed;
 }
+td {
+  border: 1px solid rgb(0, 0, 0);
+}
 
 #geo {
   display: grid;
