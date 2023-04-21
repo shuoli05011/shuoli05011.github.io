@@ -28,6 +28,12 @@ table {
   border-color: rgb(26,104,64);
   border-style: dashed;
 }
+table,
+td {
+  box-sizing: border-box;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
 
 #geo {
   display: grid;
