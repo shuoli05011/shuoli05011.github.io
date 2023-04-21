@@ -31,7 +31,7 @@ table {
 
 #geo {
   display: grid;
-  grid-template-columns: 500px 250px 250px auto;
+  grid-template-columns: 500px 250px 250px min-content;
   grid-template-rows: 60px 1fr auto;
 }
 #Geography {
