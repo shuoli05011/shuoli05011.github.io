@@ -31,6 +31,7 @@ table {
 
 table,
 td {
+  box-sizing: border-box;
   border-color: rgb(0, 0, 0);
   border-style: solid;
 }
