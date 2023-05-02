@@ -9,7 +9,7 @@ body {
     max-width: 1080px;
 }
 
-#nav ul {
+#nav {
     display: flex;
     align-items: center;
     background-color: #F4EAEA;  
