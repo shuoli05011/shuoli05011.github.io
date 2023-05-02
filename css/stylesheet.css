@@ -9,7 +9,7 @@ body {
     max-width: 1080px;
 }
 
-#navi {
+#navi ul li a {
     display: flex;
     align-items: center;
     background-color: #F4EAEA;  
