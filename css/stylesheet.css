@@ -12,18 +12,20 @@ body {
   grid-template-rows: 50px 60px 25px auto; 
 }
 nav {
-  display: flex;
   align-items: center;
   justify-content: center;
   background-color: #F4EAEA;  
-  padding: .5em;
-  margin: 0;
-  list-style: none;
   border-bottom-style: outset;
   border-bottom-width: medium;
   border-color: #F2D5D8;
   grid-row: 1 / 2; 
   grid-column: 1/ 2 / 3;
+}
+nav ul {
+  display: flex;  
+  list-style-type: none;
+  padding: .5em;
+  margin: 0;
 }
 #name {
   background-color: #BBAFA8; 
