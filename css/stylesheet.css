@@ -8,3 +8,12 @@ body {
     margin-left: 90px;
     max-width: 1080px;
 }
+
+#nav ul {
+    display: flex;
+    align-items: center;
+    background-color: #F4EAEA;  
+    list-style: none;
+    padding: .5em;
+    margin: 0;
+}
