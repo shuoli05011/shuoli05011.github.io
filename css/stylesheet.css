@@ -12,8 +12,6 @@ body {
   grid-template-rows: 50px 60px 25px auto; 
 }
 nav {
-  text-align: center;
-  justify-content: center;
   background-color: #F4EAEA;  
   border-bottom-style: outset;
   border-bottom-width: medium;
@@ -22,6 +20,7 @@ nav {
   grid-column: 1/ 2 / 3;
 }
 nav ul {
+  justify-content: center;
   display: flex;  
   list-style-type: none;
   padding: .5em;
