@@ -50,7 +50,7 @@ nav li {
   background-color: #BBAFA8; 
   box-sizing: border-box;
   width: 590px;
-  height: 570px;  
+  height: 580px;  
   grid-row: 2 / 3; 
   grid-column: 1 / 2;
 }
