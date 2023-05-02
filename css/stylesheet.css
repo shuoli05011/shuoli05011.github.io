@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Montez&family=Sacramento&family=Zhi+Mang+Xing&display=swap');
+
+#hom {
+  display: grid;
+  grid-template-columns: 580px 500px auto;
+  grid-template-rows: 50px 625px 25px auto;   
+}
+
+nav {
+  background-color: #BBAFA8;
+  border-bottom-style: outset;
+  border-bottom-width: medium;
+  border-color: #C3B8B2;
+  display: flex;
+  justify-content: center;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+#name {
+  background-color: #BBAFA8; 
+  width: 580px;
+  height: 625px;  
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Leckerli One", "Helvetica Neue", "Arial", sans-serif;
+  font-size: 72px;
+  font-weight: 400
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Zhi Mang Xing", "Helvetica Neue", "Arial", sans-serif;
+  font-size: 48px;
+  font-weight: 400
+}
+#myphoto {
+  float: right;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+footer {
+  background-color: #BBAFA8; 
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 4;
+}
