@@ -15,7 +15,8 @@ nav {
   background-color: #F4EAEA;  
   padding: .5em;
   margin: 0;
-}
-ul li{
- list-style: none;
+  list-style: none;
+  border-bottom-style: outset;
+  border-bottom-width: medium;
+  border-color: #F2D5D8;
 }
