@@ -5,7 +5,7 @@
   grid-template-columns: 580px 500px auto;
   grid-template-rows: 50px 625px 25px auto;   
 }
-
+/*
 #nav {
   background-color: #BBAFA8;
   border-bottom-style: outset;
@@ -17,6 +17,18 @@
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 2;
+}
+*/
+ul {
+  display: flex;
+  align-items: center;
+  background-color: #00af8f;
+  list-style: none; /* removes bullets */
+  padding: .5em;
+  margin: 0; 
+}
+  li {
+  margin: 0 1em;
 }
 
 #name {
