@@ -20,11 +20,14 @@ nav {
   grid-column: 1/ 2 / 3;
 }
 nav ul {
-  justify-content: center;
-  display: flex;  
+  display: flex; 
+  justify-content: space-around; 
   list-style-type: none;
   padding: .5em;
   margin: 0;
+}
+nav li {
+  margain: o 1em;
 }
 #name {
   background-color: #BBAFA8; 
