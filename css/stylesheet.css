@@ -9,7 +9,7 @@ body {
   max-width: 1080px;
   display: grid;
   grid-template-columns: 600px 480px auto;
-  grid-template-rows: 50px 60px 25px auto; 
+  grid-template-rows: 50px 600px 25px auto; 
 }
 nav {
   background-color: #F4EAEA;  
@@ -32,7 +32,7 @@ nav li {
 
 #name {
   background-color: #BBAFA8; 
-  box-sizing: content-box;
+  box-sizing: border-box;
   width: 580px;
   height: 625px;  
   grid-row: 2 / 3; 
