@@ -8,7 +8,7 @@ body {
   margin-left: 90px;
   max-width: 1080px;
   display: grid;
-  grid-template-columns: 600px 500px auto;
+  grid-template-columns: 600px 480px auto;
   grid-template-rows: 20px 700px 20px auto; 
 }
 header {
