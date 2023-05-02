@@ -13,7 +13,7 @@ nav {
   display: flex;
   align-items: center;
   background-color: #F4EAEA;  
-  list-style: none;
+  list-style-type: none;
   padding: .5em;
   margin: 0;
 }
