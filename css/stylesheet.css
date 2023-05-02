@@ -2,8 +2,8 @@
 
 #hom {
   display: grid;
-  grid-template-columns: 580px 500px auto;
-  grid-template-rows: 50px 625px 25px auto;   
+  grid-template-columns: 600px 480px auto;
+  grid-template-rows: 50px 60px 25px auto;   
 }
 
 #nav {
