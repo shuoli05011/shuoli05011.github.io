@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Montez&family=Sacramento&family=Zhi+Mang+Xing&display=swap');
 
+body {
+    color: rgb(0, 0, 0);
+    font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 90px;
+    max-width: 1080px;
+}
+
 #hom {
   display: grid;
   grid-template-columns: 600px 480px auto;
