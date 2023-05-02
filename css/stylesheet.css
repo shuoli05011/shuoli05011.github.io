@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Montez&family=Sacramento&family=Zhi+Mang+Xing&display=swap');
 
 body {
-    color: rgb(0, 0, 0);
-    font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-    margin-left: 90px;
-    max-width: 1080px;
+  color: rgb(0, 0, 0);
+  font-family: "EB Garamond", "Helvetica Neue", "Arial", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 90px;
+  max-width: 1080px;
 }
 
 #navi {
-    display: flex;
-    align-items: center;
-    background-color: #F4EAEA;  
-    list-style: none;
-    padding: .5em;
-    margin: 0;
+  display: flex;
+  align-items: center;
+  background-color: #F4EAEA;  
+  list-style: none;
+  padding: .5em;
+  margin: 0;
 }
