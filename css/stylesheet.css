@@ -8,7 +8,7 @@ body {
   margin-left: 90px;
   max-width: 1080px;
   display: grid;
-  grid-template-columns: 600px 480px auto;
+  grid-template-columns: 595px 480px auto;
   grid-template-rows: 20px 700px 20px auto; 
 }
 header {
@@ -45,13 +45,13 @@ nav ul {
 }
 nav li {
   margin: 0 1em;
-  
+
 }
 #name {
   background-color: #BBAFA8; 
   box-sizing: border-box;
   width: 590px;
-  height: 700px;  
+  height: 680px;  
   grid-row: 2 / 3; 
   grid-column: 1 / 2;
 }
