@@ -29,8 +29,10 @@ nav ul {
 nav li {
   margain: o 1em;
 }
+
 #name {
   background-color: #BBAFA8; 
+  box-sizing: content-box;
   width: 580px;
   height: 625px;  
   grid-row: 2 / 3; 
