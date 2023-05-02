@@ -13,7 +13,9 @@ nav {
   display: flex;
   align-items: center;
   background-color: #F4EAEA;  
-  list-style-type: none;
   padding: .5em;
   margin: 0;
+}
+ul li{
+ list-style: none;
 }
