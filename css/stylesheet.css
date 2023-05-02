@@ -28,7 +28,7 @@ body {
 ul {
   display: flex;
   align-items: center;
-  list-style: none; /* removes bullets */
+  list-style: none; 
   padding: .5em;
   margin: 0; 
 }
