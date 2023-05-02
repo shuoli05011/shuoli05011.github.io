@@ -48,6 +48,7 @@ main {
 #myphoto {
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
+  
 }
 footer {
   align-items: center;
