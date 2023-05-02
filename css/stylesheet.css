@@ -36,8 +36,8 @@ nav li {
 #name {
   background-color: #BBAFA8; 
   box-sizing: border-box;
-  width: 580px;
-  height: 625px;  
+  width: 600px;
+  height: 600px;  
   grid-row: 2 / 3; 
   grid-column: 1 / 2;
 }
