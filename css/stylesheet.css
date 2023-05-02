@@ -9,7 +9,7 @@ body {
   max-width: 1080px;
   display: grid;
   grid-template-columns: 600px 480px auto;
-  grid-template-rows: 15px 600px 20px auto; 
+  grid-template-rows: 18px 600px 20px auto; 
 }
 header {
   grid-column-start: 1;
