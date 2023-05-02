@@ -6,7 +6,7 @@
   grid-template-rows: 50px 625px 25px auto;   
 }
 
-nav {
+#nav {
   background-color: #BBAFA8;
   border-bottom-style: outset;
   border-bottom-width: medium;
