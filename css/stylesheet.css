@@ -6,9 +6,9 @@ body {
     font-size: 18px;
     font-weight: 400;
     margin-left: 90px;
-    max-width: 1200px;
+    max-width: 1080px;
 }
-
+/*
 #hom {
   display: grid;
   grid-template-columns: 600px 480px auto;
@@ -71,3 +71,4 @@ footer {
   grid-row-start: 3;
   grid-row-end: 4;
 }
+*/
