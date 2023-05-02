@@ -45,6 +45,7 @@ nav ul {
 }
 nav li {
   margin: 0 1em;
+  
 }
 #name {
   background-color: #BBAFA8; 
@@ -59,3 +60,24 @@ nav li {
   grid-column: 2 / 3;
 }
 
+
+
+
+
+a,
+a:link {
+  color: #BBAFA8; 
+}
+
+a:visited {
+  color: rgb(182, 164, 118); /* dusty */
+}
+
+a:hover {
+  background-color: rgb(26,104,64); /* heyelv */
+  color: rgb(228,223,215); /* zhenzhu grey */
+}
+
+a:active {
+  color: rgb(248, 223,114); /* Jasmine yellow*/
+}
