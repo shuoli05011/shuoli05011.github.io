@@ -61,10 +61,7 @@ nav li {
   grid-column: 1 / 2;
 }
 #mp {
-  display: grid;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row: 2 / 3;
+  grid-area: 2 / 2 / -2 / -2;
 }
 #ct {
   background-color: #F4EAEA; 
