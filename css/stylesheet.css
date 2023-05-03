@@ -10,7 +10,7 @@ body {
 }
 #container {
   display: grid;
-  grid-template-columns: 580px 1fr auto;
+  grid-template-columns: 580px 500px auto;
   grid-template-rows: 20px 700px 20px auto; 
 }
 header {
@@ -58,6 +58,9 @@ nav li {
   grid-column: 1 / 2;
 }
 #mp {
+  box-sizing: border-box;
+  width: 500px;
+  height: 680px;
   grid-area: 2 / 2 / 3 / 3;
 }
 #ct {
