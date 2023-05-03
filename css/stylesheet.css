@@ -30,7 +30,7 @@ nav ul {
   display: flex; 
   align-items: center; 
   list-style-type: none;
-  padding: .5em;
+  padding: 1px;
   margin: 0;
 }
 nav li {
@@ -55,11 +55,11 @@ footer {
 #homemainpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 620px auto;   
+  grid-template-rows: 600px auto;   
 }
 #name {
   background-color: #F4EAEA; 
-  box-sizing: border-box;
+  box-sizing: padding-box;
   width: 580px;
   height: 600px;  
   grid-row: 1 / 2; 
@@ -87,15 +87,12 @@ footer {
   grid-column: 1 / 2; 
 }
 
-#pjt {
-  display: grid;
-  grid-template-columns: 1080px auto;
-  grid-template-rows: 20px 620px 10px auto; 
-}
+
 #pjtpdf {
   background-color: #F4EAEA;
   box-sizing: border-box;
   box-sizing: 1080px 600px;
+  align-items: center;
 }
 
 
