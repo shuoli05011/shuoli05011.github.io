@@ -61,7 +61,9 @@ nav li {
   box-sizing: border-box;
   width: 500px;
   height: 680px;
-  grid-area: 2 / 2 / 3 / 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row: 2 / 3;
 }
 #ct {
   background-color: #F4EAEA; 
