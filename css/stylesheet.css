@@ -63,6 +63,9 @@ nav li {
 #mp {
   grid-area: 2 / 2 / -2 / -2;
 }
+figure {
+  display: grid;
+}
 #ct {
   background-color: #F4EAEA; 
   box-sizing: border-box;
