@@ -6,6 +6,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   margin-left: 90px;
+  margin-right: 90px;
   max-width: 1080px;
 }
 #container {
@@ -38,6 +39,7 @@ nav {
   background-color: #F4EAEA;  
   border-bottom-style: outset;
   border-bottom-width: medium;
+  border-color: #F2D5D8;
 }
 nav ul {
   display: flex; 
@@ -53,7 +55,7 @@ nav li {
 #name {
   background-color: #F4EAEA; 
   box-sizing: border-box;
-  width: 550px;
+  width: 580px;
   height: 600px;  
   grid-row: 2 / 3; 
   grid-column: 1 / 2;
@@ -66,7 +68,7 @@ nav li {
 #ct {
   background-color: #F4EAEA; 
   box-sizing: border-box;
-  width: 550px;
+  width: 580px;
   height: 600px;  
   grid-row: 2 / 3; 
   grid-column: 1 / 2; 
