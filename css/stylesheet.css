@@ -11,7 +11,7 @@ body {
 #container {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 20px 600px 20px auto; 
+  grid-template-rows: 20px 620px 20px auto; 
 }
 header {
   grid-column-start: 1;
