@@ -31,6 +31,9 @@ footer {
   grid-column-end: 3;
   grid-row-start: 3;
   grid-row-end: 4;
+  border-top-style: outset;
+  border-top-width: medium;
+  border-color: #F2D5D8;
 }
 nav {
   background-color: #F4EAEA;  
