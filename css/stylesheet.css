@@ -33,13 +33,11 @@ footer {
   grid-row-end: 4;
   border-top-style: outset;
   border-top-width: medium;
-  border-color: #F2D5D8;
 }
 nav {
   background-color: #F4EAEA;  
   border-bottom-style: outset;
   border-bottom-width: medium;
-  border-color: #F2D5D8;
 }
 nav ul {
   display: flex; 
@@ -80,11 +78,11 @@ nav li {
 
 a,
 a:link {
-  color: #BBAFA8; 
+  color: rgb(182, 164, 118); /* dusty */
 }
 
 a:visited {
-  color: rgb(182, 164, 118); /* dusty */
+  color: #BBAFA8;
 }
 
 a:hover {
@@ -97,3 +95,4 @@ a:active {
 }
 
 
+/* border-color: #F2D5D8;*/
