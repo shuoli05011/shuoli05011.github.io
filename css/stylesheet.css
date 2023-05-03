@@ -61,10 +61,8 @@ nav li {
   grid-column: 1 / 2;
 }
 #mp {
+  display: inline;
   grid-area: 2 / 2 / -2 / -2;
-}
-figure {
-  display: grid;
 }
 #ct {
   background-color: #F4EAEA; 
