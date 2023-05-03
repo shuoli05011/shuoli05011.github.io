@@ -8,7 +8,7 @@ body {
   margin-left: 90px;
   max-width: 1080px;
   display: grid;
-  grid-template-columns: 595px 480px auto;
+  grid-template-columns: 590px 480px auto;
   grid-template-rows: 20px 700px 20px auto; 
 }
 header {
@@ -56,8 +56,6 @@ nav li {
   grid-column: 1 / 2;
 }
 #mp {
-  float: right;
-  display: flex;
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
 }
