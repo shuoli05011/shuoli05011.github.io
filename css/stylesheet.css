@@ -59,6 +59,7 @@ nav li {
 }
 #mp {
   box-sizing: border-box;
+  background-color: #F2D5D8;;
   width: 500px;
   height: 680px;
   grid-column-start: 2;
