@@ -12,10 +12,9 @@ body {
 #container {
   display: grid;
   grid-template-columns: 1080px auto;
-  grid-template-rows: 20px 620px 10px auto; 
+  grid-template-rows: 30px 620px 20px auto; 
 }
 header {
-  top: 20px;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 1;
@@ -38,6 +37,7 @@ nav li {
   margin: 0 1em;
 }
 main {
+  top: 30px;
   grid-row: 2 / 3; 
   grid-column-start: 1;
   grid-column-end: 2;  
