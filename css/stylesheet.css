@@ -93,7 +93,7 @@ footer {
   background-color: #F4EAEA;
   box-sizing: border-box;
   box-sizing: 1080px 600px;
-  align-items: center;
+  position: center;
 }
 
 
