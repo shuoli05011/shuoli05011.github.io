@@ -10,6 +10,7 @@ body {
   max-width: 1080px;
 }
 #container {
+  top: 20px;
   display: grid;
   grid-template-columns: 1080px auto;
   grid-template-rows: 20px 620px 10px auto; 
