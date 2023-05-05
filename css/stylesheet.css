@@ -106,8 +106,8 @@ footer {
 #experience {
   background-color: #F4EAEA; 
   box-sizing: content-box;
-  padding: 10px 40px;
-  width: 100px;
+  padding: 10px 40px 10px 40px;
+  width: 1000px;
   height:699px;
   background-color: #F4EAEA; 
   display: grid;
@@ -125,8 +125,6 @@ footer {
 #lclogo {
   float: right;
 }
-
-
 #lcphoto {
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
