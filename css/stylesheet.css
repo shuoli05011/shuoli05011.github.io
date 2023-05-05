@@ -78,6 +78,9 @@ footer {
   background-color: #F4EAEA; 
   top: 20px;
   float: center; 
+  box-sizing: padding-box;
+  width: 1080px;
+  height: 600px; 
 }
 
 #spage {
@@ -91,6 +94,7 @@ footer {
 #pjtpdf {
   background-color: #F4EAEA; 
   justify-items: center;
+  
 }
 
 #ctpage {
@@ -123,7 +127,7 @@ a:visited {
 
 a:hover {
   background-color: #D9A9A9; 
-  color: #BBAFA8;; 
+  color: rgb(255,255,255); 
 }
 
 a:active {
