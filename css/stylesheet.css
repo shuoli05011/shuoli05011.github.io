@@ -111,7 +111,7 @@ footer {
   height:680px;
   background-color: #F4EAEA; 
   display: grid;
-  grid-template-columns: 500px 500px auto;
+  grid-template-columns: 550px 500px auto;
   grid-template-rows: 30px 649px auto;   
 }
 #etitle {
@@ -129,7 +129,7 @@ footer {
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
   display: grid;
-  grid-template-rows: 300px auto; 
+  grid-template-rows: 125px 125px auto; 
   grid-template-columns: 225px 225px auto;
 }
 
