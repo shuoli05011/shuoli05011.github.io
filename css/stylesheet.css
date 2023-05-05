@@ -75,6 +75,9 @@ footer {
 
 #spage {
   background-color: #F4EAEA; 
+  box-sizing: padding-box;
+  width: 1080px;
+  height: 600px; 
 }
 
 #ctpage {
