@@ -12,7 +12,7 @@ body {
 #container {
   display: grid;
   grid-template-columns: 1080px auto;
-  grid-template-rows: 30px 620px 20px auto; 
+  grid-template-rows: 30px 800px 20px auto; 
 }
 header {
   grid-column-start: 1;
@@ -56,13 +56,13 @@ footer {
 #homemainpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 620px auto;   
+  grid-template-rows: 800px auto;   
 }
 #name {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
   width: 580px;
-  height: 620px;  
+  height: 800px;  
   grid-row: 1 / 2; 
   grid-column: 1 / 2;
 }
@@ -70,18 +70,19 @@ footer {
   grid-row: 1 / 2; 
   grid-column: 2 / 3;
   left: 0%;
+  align-content: start;
 }
 
 #ctpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 620px auto; 
+  grid-template-rows: 800px auto; 
 }
 #ct {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
   width: 580px;
-  height: 620px;  
+  height: 800px;  
   grid-row: 1 / 2; 
   grid-column: 1 / 2;  
 }
@@ -97,7 +98,7 @@ footer {
 #pjtpdf {
   background-color: #F4EAEA;
   box-sizing: border-box;
-  box-sizing: 1080px 620px;
+  box-sizing: 1080px 800px;
   position: center;
 }
 
