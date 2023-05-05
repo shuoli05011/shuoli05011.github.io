@@ -134,10 +134,12 @@ footer {
 #ct {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
-  width: 580px;
-  height: 600px;  
+  padding-top: 40px;
+  padding-left: 40px;
+  width: 540px;
+  height: 660px;  
   grid-row: 1 / 2; 
-  grid-column: 1 / 2;  
+  grid-column: 1 / 2; 
 }
 #mp2 {
   grid-row: 1 / 2; 
