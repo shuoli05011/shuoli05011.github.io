@@ -73,6 +73,10 @@ footer {
   align-content: start;
 }
 
+#spage {
+  background-color: #F4EAEA; 
+}
+
 #ctpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
