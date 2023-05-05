@@ -76,7 +76,7 @@ footer {
 #name {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
-  padding-top: 100px 0 100px 800px;
+  padding: 99px 0 100px 80px;
   width: 500px;
   height: 500px;  
   grid-row: 1 / 2; 
