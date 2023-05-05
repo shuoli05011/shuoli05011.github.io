@@ -79,6 +79,7 @@ footer {
   box-sizing: padding-box;
   width: 1080px;
   height: 600px; 
+  align-self: start;
 }
 
 #pjtpdf {
