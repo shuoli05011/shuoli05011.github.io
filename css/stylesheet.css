@@ -80,6 +80,11 @@ footer {
   height: 600px; 
 }
 
+#pjtpdf {
+  background-color: #F4EAEA; 
+  justify-items: center;
+}
+
 #ctpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
@@ -102,10 +107,7 @@ footer {
 
 
 
-#pjtpdf {
-  background-color: #F4EAEA; 
-  position: center;
-}
+
 
 
 
