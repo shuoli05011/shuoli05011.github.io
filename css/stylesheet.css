@@ -17,7 +17,7 @@ body {
 #container2 {
   display: grid;
   grid-template-columns: 1080px auto;
-  grid-template-rows: 30px 800px 20px auto; 
+  grid-template-rows: 30px 750px 20px auto; 
 }
 header {
   grid-column-start: 1;
@@ -81,9 +81,9 @@ footer {
 
 #resumepage {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  box-sizing: border-box;
   width: 1080px;
-  height: 800px; 
+  height: 750px; 
 }
 #rpdf {
   float: center;
