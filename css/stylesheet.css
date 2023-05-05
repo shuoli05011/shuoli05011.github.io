@@ -56,13 +56,13 @@ footer {
 #homemainpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 800px auto;   
+  grid-template-rows: 700px auto;   
 }
 #name {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
   width: 580px;
-  height: 800px;  
+  height: 700px;  
   grid-row: 1 / 2; 
   grid-column: 1 / 2;
 }
@@ -76,13 +76,13 @@ footer {
 #ctpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 800px auto; 
+  grid-template-rows: 700px auto; 
 }
 #ct {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
   width: 580px;
-  height: 800px;  
+  height: 700px;  
   grid-row: 1 / 2; 
   grid-column: 1 / 2;  
 }
@@ -98,7 +98,7 @@ footer {
 #pjtpdf {
   background-color: #F4EAEA;
   box-sizing: border-box;
-  box-sizing: 1080px 800px;
+  box-sizing: 1080px 700px;
   position: center;
 }
 
