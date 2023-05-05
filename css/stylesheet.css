@@ -101,6 +101,9 @@ footer {
   grid-row: 1 / 2; 
   grid-column: 1 / 2;
 }
+#lclogo {
+  float: right;
+}
 #lcphoto {
   grid-row: 1 / 2; 
   grid-column: 2 / 3;
