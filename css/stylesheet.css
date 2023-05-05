@@ -106,12 +106,12 @@ footer {
 #experience {
   background-color: #F4EAEA; 
   box-sizing: content-box;
-  padding: 10px 40px 10px 40px;
+  padding: 10px 0px 10px 40px;
   width: 1000px;
   height:680px;
   background-color: #F4EAEA; 
   display: grid;
-  grid-template-columns: 550px 500px auto;
+  grid-template-columns: 590px 450px auto;
   grid-template-rows: 30px 649px auto;   
 }
 #etitle {
