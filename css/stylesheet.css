@@ -81,9 +81,9 @@ footer {
 
 #resumepage {
   background-color: #F4EAEA; 
-  box-sizing: border-box;
+  padding: 20px;
   width: 1080px;
-  height: 750px; 
+  height: 720px; 
 }
 #rpdf {
   float: center;
@@ -91,7 +91,7 @@ footer {
 
 #spage {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  padding: 20px;
   width: 1080px;
   height: 600px; 
   align-self: start;
