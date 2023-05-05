@@ -74,6 +74,12 @@ footer {
   justify-items: start;
 }
 
+#resumepage {
+  background-color: #F4EAEA; 
+  top: 20px;
+  float: center; 
+}
+
 #spage {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
