@@ -112,13 +112,6 @@ footer {
   left: 0%;
 }
 
-
-
-
-
-
-
-
 a,
 a:link {
   color: rgb(182, 164, 118); /* dusty */
@@ -129,12 +122,12 @@ a:visited {
 }
 
 a:hover {
-  background-color: rgb(26,104,64); /* heyelv */
-  color: rgb(228,223,215); /* zhenzhu grey */
+  background-color: #D9A9A9; 
+  color: #BBAFA8;; 
 }
 
 a:active {
-  color: rgb(248, 223,114); /* Jasmine yellow*/
+  color: rgb(248, 223,114); 
 }
 
 
