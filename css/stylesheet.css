@@ -16,14 +16,14 @@ body {
   font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  margin-left: 90px;
+  margin-left: 120px;
   margin-right: 90px;
   max-width: 1080px;
 }
 #container {
   display: grid;
   grid-template-columns: 1080px auto;
-  grid-template-rows: 30px 650px 20px auto; 
+  grid-template-rows: 30px 700px 20px auto; 
 }
 #container2 {
   display: grid;
@@ -53,7 +53,6 @@ nav li {
   margin: 0 1em;
 }
 main {
-  top: 30px;
   grid-row: 2 / 3; 
   grid-column-start: 1;
   grid-column-end: 2;  
@@ -72,13 +71,14 @@ footer {
 #homemainpage {
   display: grid;
   grid-template-columns: 580px 500px auto;
-  grid-template-rows: 600px auto;   
+  grid-template-rows: 700px auto;   
 }
 #name {
   background-color: #F4EAEA; 
   box-sizing: padding-box;
-  width: 580px;
-  height: 600px;  
+  padding-top: 20px 0 20px 20px;
+  width: 560px;
+  height: 660px;  
   grid-row: 1 / 2; 
   grid-column: 1 / 2;
 }
@@ -92,13 +92,12 @@ footer {
 
 #resumepage {
   background-color: #F4EAEA; 
-  padding-top: 10px;
-  width: 1080px;
-  height: 720px; 
+  padding-right: 290px;
+  padding-left: 290px;;
+  width: 580px;
+  height: 700px; 
 }
-#rpdf {
-  float: center;
-}
+
 
 #spage {
   background-color: #F4EAEA; 
