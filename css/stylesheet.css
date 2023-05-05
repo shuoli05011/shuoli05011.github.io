@@ -76,11 +76,12 @@ footer {
 
 #resumepage {
   background-color: #F4EAEA; 
-  top: 20px;
-  float: center; 
   box-sizing: padding-box;
   width: 1080px;
   height: 720px; 
+}
+#rpdf {
+  float: center;
 }
 
 #spage {
