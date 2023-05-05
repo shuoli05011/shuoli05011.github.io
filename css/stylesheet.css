@@ -7,7 +7,7 @@ h1 {
 }
 h2{
   font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 400;
 }
 
@@ -23,7 +23,7 @@ body {
 #container {
   display: grid;
   grid-template-columns: 1080px auto;
-  grid-template-rows: 30px 600px 20px auto; 
+  grid-template-rows: 30px 650px 20px auto; 
 }
 #container2 {
   display: grid;
