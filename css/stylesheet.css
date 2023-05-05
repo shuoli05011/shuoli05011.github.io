@@ -124,6 +124,7 @@ footer {
 }
 #lclogo {
   float: right;
+  top: 0%;
 }
 #lcphoto {
   grid-row: 2 / 3; 
