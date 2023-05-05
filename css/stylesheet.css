@@ -71,7 +71,7 @@ footer {
 }
 #name {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  box-sizing: content-box;
   padding: 99px 0 100px 80px;
   width: 500px;
   height: 500px;  
@@ -88,7 +88,7 @@ footer {
 
 #resumepage {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  box-sizing: content-box;
   padding: 10px 290px 50px 290px;
   width: 500px;
   height: 600px; 
@@ -98,20 +98,20 @@ footer {
 #spage {
   background-color: #F4EAEA; 
   padding: 10px 40px 0 40px;
-  width: 10o0px;
-  height: 689px; 
+  width: 1000px;
+  height: 688px; 
   align-self: start;
 }
 
 #experience {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  box-sizing: content-box;
   padding: 10px 40px;
   width: 100px;
   height:699px;
   background-color: #F4EAEA; 
   display: grid;
-  grid-template-columns: 420px 580 auto;
+  grid-template-columns: 420px 580px auto;
   grid-template-rows: 30px 549px auto;   
 }
 #etitle {
@@ -125,10 +125,30 @@ footer {
 #lclogo {
   float: right;
 }
+
+
 #lcphoto {
   grid-row: 2 / 3; 
   grid-column: 2 / 3;
+  display: grid;
+  grid-template-rows: 300px auto; 
+  grid-template-columns: 225px 225px auto;
 }
+
+#p1 {
+  grid-row: 1 / 3; 
+  grid-column: 1 / 2;
+}
+#p2 {
+  grid-row: 1 / 2; 
+  grid-column: 2 / 3;
+}
+#p3 {
+  grid-row: 2 / 3;
+  grid-column: 2 / 3;
+}
+
+
   
 
 
@@ -139,7 +159,7 @@ footer {
 }
 #ct {
   background-color: #F4EAEA; 
-  box-sizing: padding-box;
+  box-sizing: content-box;
   padding-top: 40px;
   padding-left: 40px;
   width: 540px;
